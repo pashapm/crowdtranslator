@@ -68,8 +68,8 @@ public class Translator extends ListActivity {
 		
 		
 		// parse stuff 
-		Parse.initialize(this, "9EUX51IBd0wfrbFmUXtEGcOpan7k0SFArgNiFQVE",
-		"w25kd5ce3TwWJAVBGQEeiS0SKxM26UF5RqlN6nXE");
+		Parse.initialize(this, "",
+		"");
 		ParseUser.enableAutomaticUser();
 		ParseACL defaultACL = new ParseACL();
 		ParseACL.setDefaultACL(defaultACL, true);

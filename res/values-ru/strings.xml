@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="appname">Animating Touch</string>
+<string name="choosefn">Сохранить как..</string>
+<string name="savingfile">Сохранение сцены</string>
+<string name="ill_filename">Невозможно сохранить файл (недопустимые символы)</string>
+<string name="error">Ошибка</string>
+<string name="error_report">Отослать отчет об ошибке?</string>
+<string name="error_report_yes">Да</string>
+<string name="error_report_no">Нет</string>
+<string name="error_report_what"> </string>
+<string name="turn_off_usb">Отключите USB чтобы продолжить</string>
+
+<!-- Menu -->
+<string name="edit_item">Ред. объект</string>
+<string name="edit_scene">Ред. сцену</string>
+<string name="save">Сохранить</string>
+<string name="settings">Настройки</string>
+<string name="export_video">Экспорт видео</string>
+<string name="screenshot">Сделать скриншот</string>
+<string name="help">Помощь</string>
+<string name="deleted">Удалено!</string>
+
+<string name="background">Фон</string>
+<string name="insert_item">Добавить объект</string>
+<string name="add_audio">Аудио</string>
+<string name="scene_size">Размер сцены</string>
+<string name="scene_sp">Скорость анимации</string>
+
+<string name="rotate">Вращать</string>
+<string name="scale">Масштабировать</string>
+<string name="delete">Удалить</string>
+<string name="flip">Перевернуть</string>
+<string name="drag_vertexes">Редактировать вершины</string>
+<string name="detach">Отсоединить</string>
+<string name="edit">Редактировать</string>
+<string name="say">Облачко текста</string>
+<string name="set_face">Лицо</string>
+<string name="rearrange">Передний/задний план</string>
+<string name="rearr_up">Вперед</string>
+<string name="rearr_down">Назад</string>
+<string name="edit_unit">Свойства</string>
+<string name="misc">Другое</string> 
+<string name="set_text">Текст</string>
+
+<string name="from_albums">Из альбомов</string>
+<string name="from_cam">Сделать снимок</string>
+<string name="reset_face">Сбросить</string>
+<string name="choose_face">Выбрать лицо</string>
+<string name="more_faces">Еще лица</string>
+
+<string name="size_title">Размер кадра</string>
+<string name="size_large_p">Большой (портрет)</string>
+<string name="size_med_p">Средний (портрет)</string>
+<string name="size_small_p">Малый (портрет)</string>
+<string name="size_large_l">Большой (ландшафт)</string>
+<string name="size_med_l">Средний (ландшафт)</string>
+<string name="size_small_l">Малый (ландшафт)</string>
+<string name="size_full_scr">Весь экран</string>
+
+<string name="opacity">Прозрачность</string>
+    
+<!-- Stuff -->
+<string name="load">Загр.</string>
+<string name="close">Закрыть</string>
+<string name="rate">Оцените</string>
+<string name="click_load_scene">Сохраненные сцены</string>
+<string name="choose_bg">Выбор фона</string>
+<string name="own_bg">Создать свой</string>
+<string name="video_is_ready">Видео готово!</string>
+<string name="no_space_on_sdcard">Карта памяти заполнена. Освободите место и попробуйте снова</string>
+<string name="preparing">Подготовка...</string>
+<string name="gen_frames">Генерация кадров...</string>
+<string name="video_saved_as">Видео сохранено как </string>
+<string name="converting_failed">Ошибка при создании видео</string>
+<string name="creating_video">Экспортируем видео...</string>
+<string name="tap_to_replay">Повтор</string>
+<string name="preparing_audio">Подготовка аудио...</string>
+<string name="autosaved_as">Автосохранение: </string>
+<string name="scene_was_saved_as">Сцена сохранена как </string>
+<string name="animation_first">Добавьте больше кадров!</string>
+<string name="install">Как установить</string>
+<string name="update">Обновить</string>
+<string name="open">Открыть</string>
+<string name="play_video">Показать видео</string>
+<string name="replay">Еще раз</string>
+<string name="share">Отправить</string>
+<string name="share_video">Сделать видео</string>
+<string name="solid_color">Выбор цвета</string>
+<string name="bubble_edit">Введите текст</string>
+<string name="unlock">Купить сцену</string>
+<string name="cycle">Зациклить</string>
+<string name="see_demo">Демонстрация</string>
+<string name="put_on_all_frames">На все кадры</string>
+<string name="put_on_next_frames">На все следующие</string>
+<string name="put_on_this_frame">На текущий</string>
+ 
+<string name="slow">Медленно</string>
+<string name="normal">Нормально</string>
+<string name="fast">Быстро</string>
+<string name="very_fast">Очень быстро</string>
+
+<!-- Settings -->
+<string name="sett_show_bg">Показывать фон</string>
+<string name="sett_show_grid">Показывать сетку</string>
+<string name="sett_bb">Bounding boxes</string>
+<string name="sett_onion">Onion skinning</string>
+<string name="sett_show_prev">Показывать скелет пред. кадра</string>
+<string name="sett_double">Двойной клик для ред.</string>
+<string name="sett_skelet">Цвет скелетов</string>
+<string name="sett_vibro">Вибрация</string>
+<string name="sett_sounds">Аудиоэффекты</string>
+<string name="sett_plugins">Плагины</string>
+<string name="sett_av_pl">Список доступных плагинов</string>
+<string name="unlimited_frames">Бесконечное кол-во кадров</string>
+<string name="unlim_frames_risk">Осторожно! Большое количество кадров может привести к падению программы</string>
+<string name="show_offers">Предложения</string>
+<string name="show_offers_det">Показывать предложения на главной странице</string>
+
+<!-- Plugins -->
+<string name="need_plugins">Чтобы продолжить, установите плагин(ы)</string>
+<string name="vp_descr">Экспортирует видео</string>
+<string name="vp_name">Видео-плагин</string>
+<string name="info">Информация</string>
+<string name="avail_plugs">Доступные плагины</string>
+<string name="sams_instr">Найдите и установите \'VideoPlugin 4 Animating Touch\' в Samsung Apps</string>
+
+<!-- Billing -->
+<string name="billing_not_supported_title">Ошибка</string>
+<string name="billing_not_supported_message">Android Market временно недоступен.</string>
+<string name="cannot_connect_title">Ошибка соединения</string>
+<string name="cannot_connect_message">Ошибка соединения. Версия приложения Android Market устарела.</string>
+<string name="result_purchase">Разблокировано!</string>
+<string name="buy_all">Купить сразу все</string>
+<string name="buy_economy">Дешевле на 30%</string>
+<string name="buy_editor">Купить редактор предметов</string>
+    
+<string name="ad_items">Купить предметы и возможности</string>
+
+<string name="network_error">Ошибка соединения</string>
+<string name="check_conn">Проверьте наличие доступа в Интернет</string>
+
+<string name="post_on_fb">Загрузить на Facebook</string>
+<string name="choose_from_fb">Из Facebook</string>
+<string name="title">Название</string>
+<string name="description">Описание</string>
+<string name="upload">Загрузить</string>
+<string name="uploading">Загрузка...</string>
+
+<string name="video_doesnt_support">Устройство не поддерживает данное разрешение видео. Измените размер сцены и попробуйте снова.</string>
+
+<string name="create_own_item">Нарисовать новый предмет</string>
+<string name="custom_items">Созданные</string> 
+    
+<!-- Editor -->
+<string name="reset_edge">Очистить</string>
+<string name="click_load_custom">Загрузка объекта</string>
+<string name="savingitem">Сохранение нового объекта</string>
+<string name="item_was_saved_as">Объект был сохранен как </string>
+<string name="editor_bg">Цвет фона в ред. предметов</string>
+<string name="edit_selected">Редактировать выделенное</string>
+<string name="new_item">Создать</string>
+<string name="item_preview">Просмотр</string>
+<string name="ed_demo_warning">Демо-версия, без сохранения</string>
+<string name="editing_point">Редактирование точки</string>
+<string name="editing_edge">Редактирование ребра</string>
+<string name="add_point">Добавить новую точку</string>
+<string name="del_point">Удалить точку</string>
+<string name="edit_point">Редактировать точку</string>
+<string name="del_edge">Удалить ребро</string>
+<string name="edit_edge">Редактировать ребро</string>
+<string name="attachment_settings">Attachment settings</string>
+<string name="point_settings">Свойства точки</string>
+<string name="att_sett_none">Нет</string>
+<string name="att_sett_master">Другой предмет может быть прикреплен к этой точке</string>
+<string name="att_sett_slave">Этот предмет может быть прикреплен к другому (применяется только к базовой точке)</string>
+<string name="point_fixed">Точку нельзя двигать пальцем (нельзя применить к базовой точке)</string>
+<string name="brush_size">Размер кисти</string>
+<string name="brush_opacity">Прозрачность</string>
+<string name="ok">Ok</string>
+<string name="cancel">Отмена</string>
+<string name="default_btn">По умолчанию</string>
+<string name="draw">Рисовать</string>
+<string name="skeleton">Скелет</string>
+
+<string name="create_new_unit">Создание нового предмета</string>
+<string name="ask_sure">Текущий предмет будет стерт. Вы уверены?</string>
+ 
+<string name="toggle_start">Включите режим\nрисования</string>
+<string name="infinite_frames_warn">Большое количество кадров может привести к падению программы.\nБесконечное количество можно включить в настройках</string>
+
+<string name="warning_override">Такой файл уже существует</string>
+<string name="illegal_symbols">Недопустимые символы</string>
+
+<string name="choose_color">Выбор цвета</string>
+<string name="choose_brush_type">Тип кисти</string>
+
+<string name="author">Автор: </string>
+<string name="created">Создано: </string>
+
+<string name="advanced">Доп. опции</string>
+<string name="edit_custom">Редактировать</string>
+
+<string name="closing">Выйти из редактора?</string>
+<string name="exit">Выход</string>
+<string name="continue_exit">Продолжить рисовать</string>
+<string name="never_ask">Не спрашивать больше</string>
+
+<string name="about">Информация</string>
+
+</resources>  
+

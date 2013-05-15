@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="appname">Animating Touch</string> <!-- don't translate -->
+<string name="choosefn">Save as...</string>
+<string name="savingfile">Saving the scene</string> <!-- saving in progress.. -->
+<string name="ill_filename">Cannot save (illegal characters)</string>
+<string name="error">Error</string>
+<string name="turn_off_usb">Turn off USB storage to continue</string>
+<string name="deleted">Deleted!</string>
+<!-- Menu -->
+<string name="edit_item">Edit Item</string> 
+<string name="edit_scene">Edit Scene</string>
+<string name="animate">Animate!</string> <!-- start animation creating -->
+<string name="save">Save</string>
+<string name="settings">Settings</string>
+<string name="export_video">Export Video</string>
+<string name="screenshot">Make a screenshot</string>
+<string name="help">Help</string>
+
+<string name="background">Background</string> <!-- change the background -->
+<string name="insert_item">Insert Item</string>
+<string name="add_audio">Add Audio</string> 
+<string name="scene_size">Scene Size</string> <!-- change the scene's size -->
+<string name="scene_sp">Animation Speed</string> <!-- change animation speed -->
+
+<string name="rotate">Rotate</string> <!-- rotate/move/scale the selected item -->
+<string name="scale">Scale</string>
+<string name="delete">Delete</string>
+<string name="flip">Flip</string> <!-- an item makes a mirror flip -->
+<string name="drag_vertexes">Drag vertexes</string> <!-- edit node points of skeletons  -->
+<string name="detach">Detach</string>
+<string name="edit">Edit</string>
+<string name="say">Say</string>
+<string name="set_face">Change face</string> <!-- attach a custom face to a character -->
+<string name="rearrange">Rearrange</string> <!-- bring items to the fore and vice versa -->
+<string name="rearr_up">Up</string> <!-- to the fore -->
+<string name="rearr_down">Down</string>  <!-- to the back -->
+<string name="edit_unit">Properties</string> 
+<string name="misc">Misc</string> 
+<string name="set_text">Set text</string> 
+
+
+<string name="from_albums">From albums</string> <!-- select a photo from albums -->
+<string name="from_cam">From camera</string>
+<string name="reset_face">Reset</string>
+<string name="choose_face">Select a face</string>
+<string name="more_faces">More faces</string>
+
+<string name="size_title">Frame size</string>
+<string name="size_large_p">Large (portrait)</string>
+<string name="size_med_p">Medium (portrait)</string>
+<string name="size_small_p">Small (portrait)</string>
+<string name="size_large_l">Large (landscape)</string>
+<string name="size_med_l">Medium (landscape)</string>
+<string name="size_small_l">Small (landscape)</string>
+<string name="size_full_scr">Full screen</string>
+
+<string name="opacity">Opacity</string>
+
+<string name="load">Load</string>
+<string name="close">Close</string>
+<string name="rate">Rate, please</string> <!-- rate the app in the Market -->
+<string name="click_load_scene">Click to load a scene</string>
+<string name="choose_bg">Choose background</string>
+<string name="own_bg">Make your own</string>
+<string name="video_is_ready">Video is ready!</string>
+<string name="no_space_on_sdcard">No space left on device</string>
+<string name="preparing">Preparing...</string>
+<string name="gen_frames">Generating frames...</string>
+<string name="video_saved_as">Video was saved as </string>
+<string name="converting_failed">Converting failed</string>
+<string name="creating_video">Creating video...</string>
+<string name="tap_to_replay">TAP TO REPLAY</string>
+<string name="preparing_audio">Preparing audio...</string>
+<string name="autosaved_as">Autosaved as </string>
+<string name="scene_was_saved_as">The scene was saved as </string>
+<string name="animation_first">Add more frames first!</string>
+<string name="install">Find</string>
+<string name="update">Update</string>
+<string name="open">Open</string>
+<string name="play_video">Play Video</string>
+<string name="replay">Replay</string>
+<string name="share">Share</string>
+<string name="share_video">Make video</string>
+<string name="solid_color">Solid color</string>
+<string name="bubble_edit">Enter your text</string>
+<string name="unlock">Unlock this scene</string>
+<string name="cycle">Loop playback</string>
+<string name="see_demo">See the demo</string>
+<string name="put_on_all_frames">On all frames</string>
+<string name="put_on_next_frames">On next frames</string>
+<string name="put_on_this_frame">On this frame</string>
+
+<!-- Animation speed -->
+<string name="slow">Slow</string>
+<string name="normal">Normal</string>
+<string name="fast">Fast</string>
+<string name="very_fast">Very Fast</string>
+
+<!-- Settings -->
+<string name="sett_show_bg">Show background</string>
+<string name="sett_show_grid">Show background grid</string>
+<string name="sett_bb">Bounding boxes</string>
+<string name="sett_onion">Onion skinning</string> <!-- don't translate -->
+<string name="sett_show_prev">Show the previous frame</string>
+<string name="sett_double">Use double click to edit</string>
+<string name="sett_skelet">Color of skeletons</string>
+<string name="sett_vibro">Vibrate</string>
+<string name="sett_sounds">Sound effects</string>
+<string name="sett_plugins">Plugins</string>
+<string name="sett_av_pl">List of available plugins</string>
+<string name="unlimited_frames">Unlimited frames</string>
+<string name="unlim_frames_risk">Warning! Large number of frames can lead to a crash</string>
+<string name="show_offers">Show offers</string>
+<string name="show_offers_det">Show offers on the main page</string>
+
+<!-- Plugins -->
+<string name="need_plugins">You need the following plugins to continue</string>
+<string name="vp_descr">Allows you to create and share video files</string>
+<string name="vp_name">Video Plugin</string>
+<string name="info">Information</string>
+<string name="avail_plugs">Available plugins</string>
+<string name="sams_instr">Find and install \'VideoPlugin 4 Animating Touch\' in SamsungApps</string> <!-- don't translate the plugin's name -->
+
+<!-- Billing -->
+<string name="billing_not_supported_title">Can\'t make purchases</string>
+<string name="billing_not_supported_message">Billing error</string>
+<string name="cannot_connect_title">Can\'t connect to Google Play app</string>
+<string name="cannot_connect_message">Make sure you have an updated version</string>
+<string name="result_purchase">Unlocked!</string>
+<string name="buy_all">Buy all</string>
+<string name="buy_economy">Saving 30%</string>
+<string name="buy_editor">Buy the item editor</string>
+
+<string name="ad_items">Buy these items and other features</string>
+
+<string name="network_error">Network error</string>
+<string name="check_conn">Check the connection</string>
+
+<string name="title">Title</string>
+<string name="description">Description</string>
+<string name="upload">Upload</string>
+<string name="uploading">Uploading...</string>
+  
+<string name="video_doesnt_support">The device does not support such video resolution. Change the scene size and try again</string>
+
+<string name="create_own_item">Create your own item</string>
+<string name="custom_items">Custom items</string>    
+    
+<!-- Editor -->
+<string name="reset_edge">Reset edge</string>    
+<string name="click_load_custom">Click to load an item</string>  
+<string name="savingitem">Saving new item</string>  
+<string name="item_was_saved_as">The item was saved as </string>    
+<string name="editor_bg">Background color in item editor</string>    
+<string name="edit_selected">Edit selected</string> 
+<string name="new_item">New item</string>
+<string name="item_preview">Item preview</string> 
+<string name="ed_demo_warning">Demo-version, saving is disabled</string>  
+<string name="editing_point">Editing point</string> 
+<string name="editing_edge">Editing edge</string> 
+<string name="add_point">Add new point</string>
+<string name="del_point">Delete point</string>
+<string name="edit_point">Edit point</string>
+<string name="del_edge">Delete edge</string>
+<string name="edit_edge">Edit edge</string>
+<string name="attachment_settings">Attachment settings</string>
+<string name="point_settings">Point settings</string>
+<string name="att_sett_none">None</string>
+<string name="att_sett_master">Another item can be attached to this point</string>
+<string name="att_sett_slave">The whole item can be attached to another (this is applied to the root point only)</string>
+<string name="point_fixed">Cannot be dragged with finger (cannot be applied to the root point)</string>  
+<string name="brush_size">Size</string>
+<string name="brush_opacity">Opacity</string>
+<string name="ok">OK</string>
+<string name="cancel">Cancel</string>
+<string name="default_btn">Default</string>
+<string name="draw">Draw</string>
+<string name="skeleton">Bones</string>
+
+<string name="create_new_unit">Creating new item</string>
+<string name="ask_sure">The current item will be lost. Are you sure?</string>
+
+<string name="toggle_start">Toggle this button\nto start drawing</string>
+<string name="infinite_frames_warn">Large number of frames may lead to a crash.\nGo to settings to allow unlimited number of frames and save often</string>
+
+<string name="warning_override">The file already exists</string>
+<string name="illegal_symbols">Illegal symbols</string>
+
+<string name="choose_color">Choose color</string>
+<string name="choose_brush_type">Brush type</string>
+
+<string name="author">Author: </string>
+<string name="created">Created: </string>
+
+<string name="advanced">Advanced</string>
+<string name="edit_custom">Edit</string>
+
+<string name="closing">Closing</string>
+<string name="exit">Exit</string>
+<string name="continue_exit">Continue editing</string>
+<string name="never_ask">Never ask again</string>
+
+<string name="about">About</string>
+
+ <!-- License checking status messages -->
+<string name="check_license">Check license</string>
+<string name="checking_license">Checking license...</string>
+<string name="dont_allow">Don\'t allow the user access</string>
+<string name="allow">Allow the user access</string>
+<string name="application_error">Application error: %1$s</string>
+
+    <!-- Unlicensed dialog messages -->
+<string name="unlicensed_dialog_title">Application not licensed</string>
+<string name="unlicensed_dialog_body">This application is not licensed. Please purchase it from Android Market.</string>
+<string name="unlicensed_dialog_retry_body">Unable to validate license. Check to see if a network connection is available.</string>
+<string name="buy_button">Buy app</string>
+<string name="retry_button">Retry</string>
+<string name="quit_button">Exit</string>
+
+</resources>  
+
